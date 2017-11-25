@@ -5,13 +5,13 @@ package com.brandi.introtofirebase2;
  */
 
 public class EventData {
-    int EventID;
-    String OrgName;
-    String EventName;
-    String EventDesc;
-    String EventDate;
-    int Picture;
-    String EventLocation;
+    private int EventID;
+    private String OrgName;
+    private String EventName;
+    private String EventDesc;
+    private String EventDate;
+    private int Picture;
+    private String EventLocation;
 
     public EventData(){
     }
